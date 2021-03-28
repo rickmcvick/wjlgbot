@@ -1,0 +1,13 @@
+# .env
+
+DISCORD_TOKEN = 
+DISCORD_GUILD = We Just Love Games
+
+#reddit info
+CLIENT_ID = 
+CLIENT_SECRET =  
+USER_AGENT = windows:wjlgdiscordbot:v1 (by u/wjlgbot)
+
+#twitch
+MY_APP_KEY = 
+MY_SEC_KEY = 
